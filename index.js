@@ -6,8 +6,12 @@ const recipes = require('./recipes.json')
 const app = express();
 const port = 5400
 
+app.get("/", (req, res) => {
+  res.send(`Server running, Please check adding chefs or recipes id`)
+})
+
 // chefs data
-app.get('/', (req, res) => {
+app.get('/chefs', (req, res) => {
   res.send(chefs)
 })
 
