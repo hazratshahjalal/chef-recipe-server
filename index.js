@@ -1,12 +1,13 @@
 const express = require('express');
 
 const chefs = require('./chefs.json')
+const recipes = require('./recipes.json')
 
 const app = express();
 const port = 5400
 
 // chefs data
-app.get('/chefs', (req, res) => {
+app.get('/', (req, res) => {
   res.send(chefs)
 })
 
@@ -18,6 +19,17 @@ app.get('/chefs/:id', (req, res) => {
 })
 
 // recipes data
+app.get('/recipes', (req, res) => {
+  res.send(recipes)
+})
+
+app.get('/recipes/:id', (req, res) => {
+  const id = parseInt(req.params.id);
+  console.log('I need more phone from id:', id)
+  const recipe = recipes.find(recipe => recipe.id === id) || {};
+  res.send(recipe)
+})
+
 
 
 app.listen(port, () => {

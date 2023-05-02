@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon Garlic Chicken",
+    "picture": "https://ibb.co/p4pQYnm",
+    "ingredients": [
+      "chicken",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
+    "method": "Preheat oven to 400°F. Place chicken in a baking dish. Squeeze lemon over chicken. Crush garlic and spread over chicken. Drizzle olive oil over chicken. Sprinkle with salt. Bake for 25-30 minutes.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Pesto Pasta",
+    "picture": "https://ibb.co/Vvrp39Q",
+    "ingredients": [
+      "pasta",
+      "pesto sauce",
+      "cherry tomatoes",
+      "parmesan cheese",
+      "pine nuts"
+    ],
+    "method": "Cook pasta according to package directions. Drain and set aside. In a pan, sauté cherry tomatoes. Add pesto sauce and pasta to the pan. Mix well. Top with parmesan cheese and pine nuts.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Grilled Steak",
+    "picture": "https://ibb.co/JqvQ7Nv",
+    "ingredients": [
+      "steak",
+      "olive oil",
+      "salt",
+      "pepper",
+      "rosemary"
+    ],
+    "method": "Preheat grill to high heat. Brush steak with olive oil. Season with salt, pepper, and rosemary. Grill for 3-4 minutes on each side. Let steak rest for a few minutes before serving.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Roasted Vegetables",
+    "picture": "https://ibb.co/k51JV24",
+    "ingredients": [
+      "carrots",
+      "potatoes",
+      "zucchini",
+      "olive oil",
+      "salt"
+    ],
+    "method": "Preheat oven to 375°F. Cut vegetables into bite-sized pieces. Toss with olive oil and salt. Spread on a baking sheet. Roast for 25-30 minutes or until tender.",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "name": "Mushroom Risotto",
+    "picture": "https://ibb.co/3Y8TLK2",
+    "ingredients": [
+      "arborio rice",
+      "mushrooms",
+      "onion",
+      "garlic",
+      "parmesan cheese"
+    ],
+    "method": "In a large saucepan, sauté onion and garlic until tender. Add arborio rice and stir for 2-3 minutes. Add mushrooms and stir until they are cooked. Gradually add chicken broth, stirring constantly until the liquid is absorbed. Keep adding broth and stirring until the rice is cooked. Remove from heat and stir in parmesan cheese.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Baked Salmon",
+    "picture": "https://ibb.co/RpXQYKM",
+    "ingredients": [
+      "salmon fillet",
+      "lemon",
+      "garlic",
+      "olive oil",
+      "salt"
+    ],
+    "method": "Preheat oven to 375°F. Place salmon fillet in a baking dish. Squeeze lemon over salmon. Crush garlic and spread over salmon. Drizzle olive oil over salmon. Sprinkle with salt. Bake for 15-20 minutes.",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Beef Stroganoff",
+    "picture": "https://ibb.co/TYBTLbV",
+    "ingredients": [
+      "beef sirloin",
+      "mushrooms",
+      "onion",
+      "sour cream",
+      "egg noodles"
+    ],
+    "method": "Cook egg noodles according to package directions. In a large pan, sauté onion until tender. Add beef sirloin and cook until browned. Add mushrooms and continue cooking until they are tender. Stir in sour cream and heat through. Serve over the egg noodles.",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "name": "Mixed Berry Smoothie",
+    "picture": "https://ibb.co/Vp0bvv5",
+    "ingredients": [
+      "frozen mixed berries",
+      "banana",
+      "vanilla yogurt",
+      "honey",
+      "milk"
+    ],
+    "method": "Combine frozen mixed berries, banana, vanilla yogurt, honey, and milk in a blender. Blend until smooth. Serve immediately.",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Pesto Pasta Salad",
+    "picture": "https://ibb.co/WgD6zt8",
+    "ingredients": [
+      "pasta",
+      "pesto sauce",
+      "cherry tomatoes",
+      "red onion",
+      "parmesan cheese"
+    ],
+    "method": "Cook pasta according to package directions. Drain and rinse with cold water. In a large bowl, mix the pasta with pesto sauce. Add cherry tomatoes and red onion. Toss until evenly coated. Serve topped with parmesan cheese.",
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "name": "Vegetable Stir Fry",
+    "picture": "https://ibb.co/yYp1L5q",
+    "ingredients": [
+      "vegetables (broccoli, bell peppers, carrots, onions)",
+      "soy sauce",
+      "cornstarch",
+      "sesame oil",
+      "garlic"
+    ],
+    "method": "In a small bowl, mix soy sauce, cornstarch, and sesame oil. In a large skillet or wok, heat a small amount of oil over high heat. Add garlic and vegetables, and stir-fry for 3-5 minutes. Add the sauce mixture and continue to cook until the sauce thickens and the vegetables are tender. Serve over rice or noodles.",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Blueberry Pancakes",
+    "picture": "https://ibb.co/p00xH4F",
+    "ingredients": [
+      "pancake mix",
+      "blueberries",
+      "milk",
+      "eggs",
+      "butter"
+    ],
+    "method": "Mix pancake mix, milk, and eggs in a large bowl. Melt butter in a skillet over medium heat. Pour batter onto skillet and add blueberries. Cook until bubbles form, then flip and cook until golden brown. Serve with syrup and additional blueberries if desired.",
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "name": "Fish Tacos",
+    "picture": "https://ibb.co/cLTg9xS",
+    "ingredients": [
+      "white fish",
+      "tortillas",
+      "cabbage",
+      "avocado",
+      "lime juice"
+    ],
+    "method": "In a large skillet, cook fish over medium-high heat until cooked through. Warm tortillas in the oven or microwave. Top tortillas with cooked fish, sliced avocado, shredded cabbage, and a drizzle of lime juice. Serve with additional lime wedges if desired.",
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "name": "Caprese Salad",
+    "picture": "https://ibb.co/304V32r",
+    "ingredients": [
+      "tomatoes",
+      "mozzarella cheese",
+      "fresh basil",
+      "balsamic vinegar",
+      "olive oil"
+    ],
+    "method": "Slice tomatoes and mozzarella cheese. Arrange them on a plate, alternating tomato and cheese slices. Top with fresh basil leaves. Drizzle with balsamic vinegar and olive oil. Season with salt and pepper to taste.",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "name": "Roast Chicken",
+    "picture": "https://ibb.co/sVhJjB5",
+    "ingredients": [
+      "whole chicken",
+      "garlic",
+      "lemon",
+      "rosemary",
+      "olive oil"
+    ],
+    "method": "Preheat oven to 400°F. Rinse chicken inside and out and pat dry. Place garlic cloves, lemon wedges, and rosemary sprigs in the cavity of the chicken. Rub the chicken with olive oil and season with salt and pepper. Place chicken in a roasting pan breast side up. Roast for 1 to 1 1/2 hours, or until a meat thermometer inserted into the thickest part of the thigh reads 165°F. Let the chicken rest for 10 minutes before carving and serving.",
+    "rating": 4.8
+  }
+]
