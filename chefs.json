@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "name": "Chef John",
+    "picture": "https://ibb.co/vwyw3WT",
+    "experience": "10+ years",
+    "numRecipes": 4,
+    "likes": 1200,
+    "recipes": []
+  },
+  {
+    "id": 2,
+    "name": "Chef Sarah",
+    "picture": "https://ibb.co/Trn3Qr2",
+    "experience": "8+ years",
+    "numRecipes": 4,
+    "likes": 800
+  },
+  {
+    "id": 3,
+    "name": "Chef Alice",
+    "picture": "https://ibb.co/DYq2z90",
+    "experience": "8+ years",
+    "numRecipes": 3,
+    "likes": 900
+  },
+  {
+    "id": 4,
+    "name": "Chef Diana",
+    "picture": "https://ibb.co/nmLqc6S",
+    "experience": "15+ years",
+    "numRecipes": 4,
+    "likes": 1500
+  },
+  {
+    "id": 5,
+    "name": "Chef Robertson",
+    "picture": "https://ibb.co/v4qTDch",
+    "experience": "20+ years",
+    "numRecipes": 4,
+    "likes": 1800,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Coq au Vin",
+        "picture": "https://example.com/coq-au-vin.jpg",
+        "ingredients": [
+          "chicken thighs",
+          "bacon",
+          "onion",
+          "carrots",
+          "red wine"
+        ],
+        "method": "In a Dutch oven, cook bacon over medium heat until crisp. Remove with a slotted spoon and set aside. Add chicken to the Dutch oven and cook until browned. Remove chicken and set aside. Add onion and carrots to the Dutch oven and cook until softened. Add red wine and bring to a simmer. Add chicken and bacon back to the Dutch oven. Cover and cook until chicken is cooked through and tender, about 1 hour. Serve with crusty bread.",
+        "rating": 4.9
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "picture": "https://example.com/beef-bourguignon.jpg",
+        "ingredients": [
+          "beef chuck",
+          "bacon",
+          "onion",
+          "carrots",
+          "red wine"
+        ],
+        "method": "Preheat oven to 350°F. In a Dutch oven, cook bacon over medium heat until crisp. Remove with a slotted spoon and set aside. Add beef to the Dutch oven and cook until browned. Remove beef and set aside. Add onion and carrots to the Dutch oven and cook until softened. Add red wine and beef broth and bring to a simmer. Add beef and bacon back to the Dutch oven. Cover and bake in the oven until beef is tender, about 2 1/2 hours. Serve with mashed potatoes or egg noodles.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "French Onion Soup",
+        "picture": "https://example.com/french-onion-soup.jpg",
+        "ingredients": [
+          "onion",
+          "beef broth",
+          "white wine",
+          "baguette",
+          "gruyere cheese"
+        ],
+        "method": "In a large pot, cook onion over low heat until caramelized, about 45 minutes. Add beef broth and white wine and bring to a simmer. Season with salt and pepper to taste. Slice baguette into rounds and toast until lightly browned. Ladle soup into oven-safe bowls and top with toasted baguette rounds and shredded gruyere cheese. Broil until cheese is melted and bubbly.",
+        "rating": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Ratatouille",
+        "picture": "https://example.com/ratatouille.jpg",
+        "ingredients": [
+          "eggplant",
+          "zucchini",
+          "red bell pepper",
+          "tomato",
+          "garlic"
+        ],
+        "method": "Preheat oven to 375°F. Slice eggplant, zucchini, and red bell pepper into rounds. Arrange the vegetables in a baking dish, alternating them. Chop tomatoes and garlic and scatter over the vegetables. Drizzle with olive oil and season with salt and pepper. Cover with foil and bake in the oven until vegetables are tender, about 45 minutes. Serve as a side dish or over pasta.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chef Maria",
+    "picture": "https://ibb.co/Dkj1Y1Y",
+    "experience": "15 years",
+    "numRecipes": 3,
+    "likes": 1200,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Taco Salad",
+        "picture": "https://example.com/taco-salad.jpg",
+        "ingredients": [
+          "ground beef",
+          "lettuce",
+          "tomato",
+          "cheese",
+          "sour cream",
+          "tortilla chips"
+        ],
+        "method": "In a skillet, cook ground beef over medium heat until browned. Season with taco seasoning. In a large bowl, combine chopped lettuce, diced tomato, and shredded cheese. Add ground beef and mix well. Serve with a dollop of sour cream and crushed tortilla chips on top.",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Grilled Chicken",
+        "picture": "https://example.com/grilled-chicken.jpg",
+        "ingredients": [
+          "chicken breasts",
+          "olive oil",
+          "lemon juice",
+          "garlic",
+          "rosemary"
+        ],
+        "method": "In a small bowl, mix together olive oil, lemon juice, minced garlic, and chopped rosemary. Season chicken breasts with salt and pepper. Brush chicken with olive oil mixture. Grill chicken over medium-high heat until cooked through, about 6-8 minutes per side. Serve with grilled vegetables or salad.",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Pesto Pasta",
+        "picture": "https://example.com/pesto-pasta.jpg",
+        "ingredients": [
+          "pasta",
+          "basil pesto",
+          "cherry tomatoes",
+          "parmesan cheese",
+          "pine nuts"
+        ],
+        "method": "Cook pasta according to package instructions. Reserve 1/2 cup of pasta water. In a large skillet, heat basil pesto over medium heat. Add halved cherry tomatoes and cook until softened. Add cooked pasta to the skillet and toss to coat with pesto. If the sauce is too thick, add reserved pasta water. Serve with grated parmesan cheese and toasted pine nuts on top.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
