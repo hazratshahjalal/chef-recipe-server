@@ -5,7 +5,7 @@ const recipes = require('./recipes.json')
 
 const app = express();
 const cors = require('cors');
-const port = 5400
+const port = process.env.PORT || 5400;
 
 app.use(cors())
 
