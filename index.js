@@ -4,10 +4,13 @@ const chefs = require('./chefs.json')
 const recipes = require('./recipes.json')
 
 const app = express();
+const cors = require('cors');
 const port = 5400
 
+app.use(cors())
+
 app.get("/", (req, res) => {
-  res.send(`Server running, Please check adding chefs or recipes id`)
+  res.send(`Server running, Please check adding "/chefs" or "/recipes" id in the url`)
 })
 
 // chefs data
