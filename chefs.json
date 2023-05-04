@@ -1,51 +1,57 @@
 [
-  {
-    "id": 1,
-    "name": "Chef John",
-    "picture": "https://ibb.co/vwyw3WT",
-    "experience": "10+ years",
-    "numRecipes": 4,
-    "likes": 1200,
-    "recipes": []
-  },
-  {
-    "id": 2,
-    "name": "Chef Sarah",
-    "picture": "https://ibb.co/Trn3Qr2",
-    "experience": "8+ years",
-    "numRecipes": 4,
-    "likes": 800
-  },
-  {
-    "id": 3,
-    "name": "Chef Alice",
-    "picture": "https://ibb.co/DYq2z90",
-    "experience": "8+ years",
-    "numRecipes": 3,
-    "likes": 900
-  },
-  {
-    "id": 4,
-    "name": "Chef Diana",
-    "picture": "https://ibb.co/nmLqc6S",
-    "experience": "15+ years",
-    "numRecipes": 4,
-    "likes": 1500
-  },
-  {
-    "id": 5,
-    "name": "Chef Robertson",
-    "picture": "https://ibb.co/v4qTDch",
-    "experience": "20+ years",
-    "numRecipes": 4,
-    "likes": 1800
-  },
-  {
-    "id": 6,
-    "name": "Chef Maria",
-    "picture": "https://ibb.co/Dkj1Y1Y",
-    "experience": "15 years",
-    "numRecipes": 3,
-    "likes": 1200
-  }
+    {
+        "id": 1,
+        "name": "Chef John",
+        "picture": "https://iili.io/HSM5iOv.jpg",
+        "experience": "5+ years",
+        "numRecipes": 4,
+        "likes": 1200,
+        "recipes": [],
+        "bio": "Chef John is an American cook with over 5 years of experience. He has a passion for creating unique and delicious dishes that are both healthy and easy to prepare. His specialty is in combining different flavors and techniques to create new and exciting dishes."
+    },
+    {
+        "id": 2,
+        "name": "Chef Sarah",
+        "picture": "https://iili.io/HSM7db4.jpg",
+        "experience": "8+ years",
+        "numRecipes": 4,
+        "likes": 800,
+        "bio": "Chef Sarah is an American cook with over 8 years of experience. She has a talent for creating simple and elegant dishes that are both delicious and nutritious. Her focus is on using fresh, seasonal ingredients and creating meals that are both satisfying and healthy."
+    },
+    {
+        "id": 3,
+        "name": "Chef Alice",
+        "picture": "https://iili.io/HSM7zej.jpg",
+        "experience": "8+ years",
+        "numRecipes": 3,
+        "likes": 900,
+        "bio": "Chef Alice is an American cook with over 8 years of experience. She specializes in creating traditional dishes with a modern twist, using fresh and locally sourced ingredients whenever possible. Her goal is to create dishes that are not only delicious, but also visually appealing."
+    },
+    {
+        "id": 4,
+        "name": "Chef Diana",
+        "picture": "https://iili.io/HSM7WLN.jpg",
+        "experience": "15+ years",
+        "numRecipes": 4,
+        "likes": 1500,
+        "bio": "Chef Diana is an American cook with over 15 years of experience. She is known for her expertise in creating bold and flavorful dishes that are both comforting and indulgent. Her focus is on creating meals that are both delicious and satisfying, and she often incorporates unexpected flavors and ingredients to keep her dishes interesting."
+    },
+    {
+        "id": 5,
+        "name": "Chef Robertson",
+        "picture": "https://iili.io/HSMcJea.jpg",
+        "experience": "20+ years",
+        "numRecipes": 4,
+        "likes": 1800,
+        "bio": "Chef Robertson is an American cook with over 20 years of experience. He is known for his expertise in creating classic American dishes with a modern twist, using fresh and locally sourced ingredients whenever possible. His focus is on creating meals that are both comforting and innovative."
+    },
+    {
+        "id": 6,
+        "name": "Chef Mariam",
+        "picture": "https://iili.io/HSM7wrX.jpg",
+        "experience": "15 years",
+        "numRecipes": 3,
+        "likes": 1200,
+        "bio": "Chef Mariam is an American cook with 15 years of experience. She specializes in creating dishes that are both flavorful and healthy, using fresh and wholesome ingredients. Her focus is on creating meals that are easy to prepare and suitable for a wide range of dietary needs."
+    }
 ]
